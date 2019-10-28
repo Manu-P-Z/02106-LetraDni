@@ -27,7 +27,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.print("DNI: 12345678");
         System.out.println('T');
-        
+
     }
-    
+
 }
